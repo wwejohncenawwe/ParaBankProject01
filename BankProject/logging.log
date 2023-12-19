@@ -1,0 +1,184 @@
+2023-12-17 16:49:25 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 16:49:25 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 16:49:25 INFO  ParaBank:22 - user is on customer login page
+  2023-12-17 16:49:27 INFO  ParaBank:32 - user clicked register link for regiration process
+  2023-12-17 16:49:27 INFO  ParaBank:39 - user is on register form page
+  2023-12-17 16:49:27 INFO  ParaBank:49 - user entered a valid firstname in register form
+  2023-12-17 16:49:27 INFO  ParaBank:54 - user entered a valid lastname in register form
+  2023-12-17 16:49:27 INFO  ParaBank:59 - user entered a valid address in register form
+  2023-12-17 16:49:28 INFO  ParaBank:64 - user entered a valid city in register form
+  2023-12-17 16:49:28 INFO  ParaBank:69 - user entered a valid state in register form
+  2023-12-17 16:49:28 INFO  ParaBank:74 - user entered a valid pincode in register form
+  2023-12-17 16:49:28 INFO  ParaBank:79 - user entered a valid phoneno in register form
+  2023-12-17 16:49:28 INFO  ParaBank:84 - user entered a valid ssnnoin register form
+  2023-12-17 16:49:28 INFO  ParaBank:89 - user entered a valid username in register form
+  2023-12-17 16:49:29 INFO  ParaBank:94 - user entered a valid password in register form
+  2023-12-17 16:49:29 INFO  ParaBank:99 - user entered a valid confirmpassword in register form
+  2023-12-17 16:49:29 INFO  ParaBank:104 - user clicked a register button on register form
+  2023-12-17 16:49:52 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 16:49:52 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 16:49:54 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 16:50:02 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 16:50:02 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 16:50:02 INFO  ParaBank:71 - pagesource: true
+  2023-12-17 16:50:02 INFO  ParaBank:127 - user is on login page
+  2023-12-17 16:50:02 INFO  ParaBank:137 - user entered valid username for login to bank
+  2023-12-17 16:50:02 INFO  ParaBank:143 - user entered valid password for login to bank
+  2023-12-17 16:50:03 INFO  ParaBank:149 - user clicked login button to enter into bank
+  2023-12-17 16:50:05 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 16:50:05 INFO  ParaBank:161 - user not login to bank
+  2023-12-17 16:50:06 INFO  ParaBank:123 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 16:50:06 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 16:50:06 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 16:50:07 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 16:50:14 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 16:50:14 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 16:50:14 INFO  ParaBank:71 - pagesource: true
+  2023-12-17 16:50:14 INFO  ParaBank:169 - user is on login page
+  2023-12-17 16:50:15 INFO  ParaBank:180 - user clicked forgot login link
+  2023-12-17 16:50:15 INFO  ParaBank:187 - user is on customer details validate page
+  2023-12-17 16:50:16 INFO  ParaBank:196 - user entered the first name
+  2023-12-17 16:50:16 INFO  ParaBank:202 - user entered the last name
+  2023-12-17 16:50:16 INFO  ParaBank:208 - user entered the address
+  2023-12-17 16:50:16 INFO  ParaBank:214 - user entered the city
+  2023-12-17 16:50:16 INFO  ParaBank:220 - user entered the state
+  2023-12-17 16:50:16 INFO  ParaBank:226 - user entered the pinno
+  2023-12-17 16:50:16 INFO  ParaBank:232 - user entered the ssnno
+  2023-12-17 16:50:17 INFO  ParaBank:238 - user clicked find my login
+  2023-12-17 16:50:17 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 16:50:17 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 16:50:17 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 16:50:18 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 16:50:26 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 16:50:26 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 16:50:26 INFO  ParaBank:261 - user entered valid username for login to bank
+  2023-12-17 16:50:26 INFO  ParaBank:263 - user entered valid password for login to bank
+  2023-12-17 16:50:27 INFO  ParaBank:269 - user click on login button to enter to bank
+  2023-12-17 16:50:27 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 16:50:27 INFO  ParaBank:279 - user not login to bank
+  2023-12-17 16:50:27 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 16:50:27 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 16:50:28 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 21:01:53 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 21:01:53 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 21:01:54 INFO  ParaBank:22 - user is on customer login page
+  2023-12-17 21:01:55 INFO  ParaBank:32 - user clicked register link for regiration process
+  2023-12-17 21:01:55 INFO  ParaBank:39 - user is on register form page
+  2023-12-17 21:01:55 INFO  ParaBank:49 - user entered a valid firstname in register form
+  2023-12-17 21:01:55 INFO  ParaBank:54 - user entered a valid lastname in register form
+  2023-12-17 21:01:55 INFO  ParaBank:59 - user entered a valid address in register form
+  2023-12-17 21:01:56 INFO  ParaBank:64 - user entered a valid city in register form
+  2023-12-17 21:01:56 INFO  ParaBank:69 - user entered a valid state in register form
+  2023-12-17 21:01:56 INFO  ParaBank:74 - user entered a valid pincode in register form
+  2023-12-17 21:01:56 INFO  ParaBank:79 - user entered a valid phoneno in register form
+  2023-12-17 21:01:56 INFO  ParaBank:84 - user entered a valid ssnnoin register form
+  2023-12-17 21:01:56 INFO  ParaBank:89 - user entered a valid username in register form
+  2023-12-17 21:01:57 INFO  ParaBank:94 - user entered a valid password in register form
+  2023-12-17 21:01:57 INFO  ParaBank:99 - user entered a valid confirmpassword in register form
+  2023-12-17 21:01:58 INFO  ParaBank:104 - user clicked a register button on register form
+  2023-12-17 21:02:20 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:02:20 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 21:02:21 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 21:02:29 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 21:02:29 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 21:02:29 INFO  ParaBank:71 - pagesource: true
+  2023-12-17 21:02:29 INFO  ParaBank:127 - user is on login page
+  2023-12-17 21:02:29 INFO  ParaBank:137 - user entered valid username for login to bank
+  2023-12-17 21:02:29 INFO  ParaBank:143 - user entered valid password for login to bank
+  2023-12-17 21:02:33 INFO  ParaBank:149 - user clicked login button to enter into bank
+  2023-12-17 21:02:35 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 21:02:35 INFO  ParaBank:161 - user not login to bank
+  2023-12-17 21:02:36 INFO  ParaBank:123 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:02:36 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:02:36 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 21:02:37 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 21:02:45 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 21:02:45 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 21:02:45 INFO  ParaBank:71 - pagesource: true
+  2023-12-17 21:02:45 INFO  ParaBank:169 - user is on login page
+  2023-12-17 21:02:46 INFO  ParaBank:180 - user clicked forgot login link
+  2023-12-17 21:02:46 INFO  ParaBank:187 - user is on customer details validate page
+  2023-12-17 21:02:46 INFO  ParaBank:196 - user entered the first name
+  2023-12-17 21:02:46 INFO  ParaBank:202 - user entered the last name
+  2023-12-17 21:02:47 INFO  ParaBank:208 - user entered the address
+  2023-12-17 21:02:47 INFO  ParaBank:214 - user entered the city
+  2023-12-17 21:02:47 INFO  ParaBank:220 - user entered the state
+  2023-12-17 21:02:47 INFO  ParaBank:226 - user entered the pinno
+  2023-12-17 21:02:47 INFO  ParaBank:232 - user entered the ssnno
+  2023-12-17 21:02:48 INFO  ParaBank:238 - user clicked find my login
+  2023-12-17 21:02:48 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 21:02:48 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:02:48 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 21:02:49 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 21:02:58 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 21:02:58 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 21:02:58 INFO  ParaBank:261 - user entered valid username for login to bank
+  2023-12-17 21:02:58 INFO  ParaBank:263 - user entered valid password for login to bank
+  2023-12-17 21:02:59 INFO  ParaBank:269 - user click on login button to enter to bank
+  2023-12-17 21:02:59 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 21:02:59 INFO  ParaBank:279 - user not login to bank
+  2023-12-17 21:02:59 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:02:59 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 21:03:00 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 21:09:38 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 21:09:38 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 21:09:38 INFO  ParaBank:22 - user is on customer login page
+  2023-12-17 21:09:39 INFO  ParaBank:32 - user clicked register link for regiration process
+  2023-12-17 21:09:40 INFO  ParaBank:39 - user is on register form page
+  2023-12-17 21:09:40 INFO  ParaBank:49 - user entered a valid firstname in register form
+  2023-12-17 21:09:40 INFO  ParaBank:54 - user entered a valid lastname in register form
+  2023-12-17 21:09:40 INFO  ParaBank:59 - user entered a valid address in register form
+  2023-12-17 21:09:40 INFO  ParaBank:64 - user entered a valid city in register form
+  2023-12-17 21:09:41 INFO  ParaBank:69 - user entered a valid state in register form
+  2023-12-17 21:09:41 INFO  ParaBank:74 - user entered a valid pincode in register form
+  2023-12-17 21:09:41 INFO  ParaBank:79 - user entered a valid phoneno in register form
+  2023-12-17 21:09:41 INFO  ParaBank:84 - user entered a valid ssnnoin register form
+  2023-12-17 21:09:41 INFO  ParaBank:89 - user entered a valid username in register form
+  2023-12-17 21:09:42 INFO  ParaBank:94 - user entered a valid password in register form
+  2023-12-17 21:09:42 INFO  ParaBank:99 - user entered a valid confirmpassword in register form
+  2023-12-17 21:09:44 INFO  ParaBank:104 - user clicked a register button on register form
+  2023-12-17 21:10:06 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:10:06 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 21:10:07 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 21:10:18 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 21:10:18 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 21:10:18 INFO  ParaBank:71 - pagesource: true
+  2023-12-17 21:10:18 INFO  ParaBank:127 - user is on login page
+  2023-12-17 21:10:19 INFO  ParaBank:137 - user entered valid username for login to bank
+  2023-12-17 21:10:19 INFO  ParaBank:143 - user entered valid password for login to bank
+  2023-12-17 21:10:20 INFO  ParaBank:149 - user clicked login button to enter into bank
+  2023-12-17 21:10:22 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 21:10:22 INFO  ParaBank:161 - user not login to bank
+  2023-12-17 21:10:23 INFO  ParaBank:123 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:10:23 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:10:23 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 21:10:24 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 21:10:32 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 21:10:32 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 21:10:32 INFO  ParaBank:71 - pagesource: true
+  2023-12-17 21:10:32 INFO  ParaBank:169 - user is on login page
+  2023-12-17 21:10:33 INFO  ParaBank:180 - user clicked forgot login link
+  2023-12-17 21:10:33 INFO  ParaBank:187 - user is on customer details validate page
+  2023-12-17 21:10:33 INFO  ParaBank:196 - user entered the first name
+  2023-12-17 21:10:34 INFO  ParaBank:202 - user entered the last name
+  2023-12-17 21:10:34 INFO  ParaBank:208 - user entered the address
+  2023-12-17 21:10:34 INFO  ParaBank:214 - user entered the city
+  2023-12-17 21:10:34 INFO  ParaBank:220 - user entered the state
+  2023-12-17 21:10:34 INFO  ParaBank:226 - user entered the pinno
+  2023-12-17 21:10:34 INFO  ParaBank:232 - user entered the ssnno
+  2023-12-17 21:10:35 INFO  ParaBank:238 - user clicked find my login
+  2023-12-17 21:10:35 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 21:10:35 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:10:35 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 21:10:36 INFO  ParaBank:18 - chrome browser closed successfully
+  2023-12-17 21:10:44 INFO  ParaBank:49 - browser maximize done
+  2023-12-17 21:10:44 INFO  ParaBank:13 - chrome browser started and url hit successfully
+  2023-12-17 21:10:44 INFO  ParaBank:261 - user entered valid username for login to bank
+  2023-12-17 21:10:45 INFO  ParaBank:263 - user entered valid password for login to bank
+  2023-12-17 21:10:46 INFO  ParaBank:269 - user click on login button to enter to bank
+  2023-12-17 21:10:46 INFO  ParaBank:71 - pagesource: false
+  2023-12-17 21:10:46 INFO  ParaBank:279 - user not login to bank
+  2023-12-17 21:10:46 INFO  ParaBank:105 - screenshot capture succesfully stored in screenshot folder
+  2023-12-17 21:10:46 INFO  ParaBank:23 - screenshot capture successfully
+  2023-12-17 21:10:47 INFO  ParaBank:18 - chrome browser closed successfully
+  
